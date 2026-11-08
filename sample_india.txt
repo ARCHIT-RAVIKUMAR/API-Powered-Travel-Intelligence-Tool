@@ -1,0 +1,8 @@
+Country    : India
+Capital    : New Delhi
+Currency   : Indian rupee (INR)
+Population : 1,429,404,000
+Languages  : English, Hindi, Tamil
+Region     : Asia
+Neighbours : Bangladesh, Bhutan, China, Myanmar, Nepal, Pakistan
+

@@ -1,0 +1,8 @@
+Country    : Japan
+Capital    : Tokyo
+Currency   : Japanese yen (JPY)
+Population : 122,650,000
+Languages  : Japanese
+Region     : Asia
+Neighbours : None (no land borders)
+

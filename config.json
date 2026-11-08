@@ -1,0 +1,4 @@
+{
+    "api_url": "https://api.restcountries.com/countries/v5",
+    "timeout": 10
+}

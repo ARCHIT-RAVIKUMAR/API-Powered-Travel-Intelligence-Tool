@@ -1,0 +1,8 @@
+Country    : Brazil
+Capital    : Brasília
+Currency   : Brazilian real (BRL)
+Population : 214,211,951
+Languages  : Portuguese
+Region     : Americas
+Neighbours : Argentina, Bolivia, Colombia, French Guiana, Guyana, Paraguay, Peru, Suriname, Uruguay, Venezuela
+
